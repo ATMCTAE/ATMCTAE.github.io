@@ -41,11 +41,11 @@
     </h3>
   </div>
 
-  <footer>
+  <footer><center>
     go to <a href="https://youtube.com/@atmctae?si=eONnrxSVSugNlGxd" target="_blank">Youtube.com/@atmctae</a><br>
     (credits to everyone in this organization and the few people that are the most helpful,<br>
     I'll label them as W and I.)
-  </footer>
+  </footer></center>
 
 </body>
 </html>
