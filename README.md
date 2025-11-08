@@ -40,13 +40,11 @@
       It has something to do with the King, but we have no idea.<br>
       Only he knows. THE END IS NEAR. HE MUST FINISH THIS.
     </h3>
+    <h5> Credits to W and I, the most important people in this, and to everyone that helped me. </h5>
   </div>
 
-  <footer><center>
-    go to <a href="https://youtube.com/@atmctae?si=eONnrxSVSugNlGxd" target="_blank">Youtube.com/@atmctae</a><br>
-    (credits to everyone in this organization and the few people that are the most helpful,<br>
-    I'll label them as W and I.)
-  </center></footer>
+  <footer>
+    go to <a href="https://youtube.com/@atmctae?si=eONnrxSVSugNlGxd" target="_blank">Youtube.com/@atmctae</a><br> Copyright © "ATMCTAE" 2025 by THE GROUP </footer>
 
 </body>
 </html>
