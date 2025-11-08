@@ -9,14 +9,25 @@
       font-family: Arial, sans-serif;
       background-color: #000;
       color: #fff;
-      height: 100vh; /* full viewport height */
       margin: 0;
+      height: 100vh; /* full screen */
       display: flex;
       flex-direction: column;
-      justify-content: flex-start;
-      align-items: center;
-      padding-top: 20px;
-}
+      justify-content: space-between; /* space between header/main/footer */
+      overflow: hidden; /* no scrolling */
+    }
+
+    header {
+      padding-top: 30px;
+    }
+
+    main {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: left;
+      padding: 0 20px;
+    }
 
     footer {
       position: fixed;
@@ -26,26 +37,40 @@
       text-align: center;
       font-size: 8px;
       color: #aaa;
+      background-color: #000;
+      padding-bottom: 5px;
     }
 
     a {
       color: #aaa;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
 
-  <div>
-    <h1>ALL THINGS MUST COME TO AN END</h1>
+  <header>
+    <h1 style="font-size: 100px;">ALL THINGS MUST COME TO AN END</h1>
+  </header>
+
+  <main>
     <h3>
       As you should know, on 1/18/26, S (will not say name) has a wrong he must right.<br>
-      It has something to do with the King.THE END IS NEAR. HE MUST FINISH THIS.
+      It has something to do with the King. THE END IS NEAR. HE MUST FINISH THIS.
     </h3>
-    <h5> Credits to W and I, the most important people in this, and to everyone that helped me. </h5>
-  </div>
+    <h5>
+      Credits to W and I, the most important people in this, and to everyone that helped me.
+    </h5>
+  </main>
 
   <footer>
-    go to <a href="https://youtube.com/@atmctae?si=eONnrxSVSugNlGxd" target="_blank">Youtube.com/@atmctae</a><br> Copyright © "ATMCTAE" 2025 by THE GROUP </footer>
+    go to <a href="https://youtube.com/@atmctae?si=eONnrxSVSugNlGxd" target="_blank">Youtube.com/@atmctae</a><br>
+    Copyright © "ATMCTAE" 2025 by THE GROUP
+  </footer>
 
 </body>
 </html>
