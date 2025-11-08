@@ -23,7 +23,7 @@
       width: 100%;
       text-align: center;
       font-size: 8px;
-      color: #000;
+      color: #fff;
     }
 
     a {
