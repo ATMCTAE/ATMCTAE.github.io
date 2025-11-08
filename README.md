@@ -18,11 +18,12 @@
 
     footer {
       position: fixed;
-      bottom: 10px; /* distance from bottom */
+      bottom: 0;
+      left: 0;
       width: 100%;
       text-align: center;
-      font-size: 5px;
-      color: #aaa;
+      font-size: 8px;
+      color: #000;
     }
 
     a {
@@ -45,7 +46,7 @@
     go to <a href="https://youtube.com/@atmctae?si=eONnrxSVSugNlGxd" target="_blank">Youtube.com/@atmctae</a><br>
     (credits to everyone in this organization and the few people that are the most helpful,<br>
     I'll label them as W and I.)
-  </footer></center>
+  </center></footer>
 
 </body>
 </html>
