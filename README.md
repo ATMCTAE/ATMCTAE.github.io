@@ -10,11 +10,12 @@
     Only he knows. THE END IS NEAR. HE MUST FINISH THIS.
   </h3>
 
-  <p style="font-size: 12px; position: absolute: bottom">
-    go to <a href="https://youtube.com/@atmctae?si=eONnrxSVSugNlGxd" target="_blank">Youtube.com/@atmctae</a>  
-    (credits to everyone in this organization and the few people that are the most helpful,  
+  <footer style=font-size: 12px>
+    go to <a href="https://youtube.com/@atmctae?si=eONnrxSVSugNlGxd" target="_blank">Youtube.com/@atmctae</a><br>
+    (credits to everyone in this organization and the few people that are the most helpful,<br>
     I'll label them as W and I.)
-  </p>
+  </footer>
+
 
 </body>
 </html>
